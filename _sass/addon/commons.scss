@@ -692,6 +692,15 @@ $btn-mb: 0.5rem;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--sidebar-border-color);
 
+  /*
+  아래 3줄 추가
+  이미지는 assets/img/ 디렉토리에 넣어 주세요. 
+  */
+  background: url('/assets/img/bg.jpg');
+  background-size: 100% 100%;
+  background-position: center;
+
+
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
     display: none;
