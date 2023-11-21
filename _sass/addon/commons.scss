@@ -754,6 +754,8 @@ $btn-mb: 0.5rem;
     letter-spacing: 0.25px;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
+    /*색상변경 안쓰면 삭제*/
+    color: rgba(254, 254, 254, 99%);
 
     a {
       @extend %clickable-transition;
@@ -772,6 +774,8 @@ $btn-mb: 0.5rem;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    /*색상변경 안쓰면 삭제*/
+    color: rgba(254, 254, 254, 99%);
   }
 
   ul {
