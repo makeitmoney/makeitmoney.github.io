@@ -44,8 +44,8 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
-meta_tag '<meta name="google-site-verification" content="9DQkPgpsd3pus8PPiChYVszUoojYxVSsrmjnY2BUnkw" />'
+google_site_verification: meta name="google-site-verification" content="9DQkPgpsd3pus8PPiChYVszUoojYxVSsrmjnY2BUnkw" # fill in to your verification string
+
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
