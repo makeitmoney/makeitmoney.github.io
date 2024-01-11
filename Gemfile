@@ -24,3 +24,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #임의 추가
 gem 'ffi', '1.15.0'
+
+#임의 추가
+gem 'google-protobuf', '3.19.1'
