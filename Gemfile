@@ -30,6 +30,3 @@ gem 'google-protobuf', '3.19.1'
 
 #임의 추가
 gem 'nokogiri', '1.13.1'
-
-#임의 추가
-gem 'ruby', '3.2.0'
