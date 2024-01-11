@@ -29,4 +29,4 @@ gem 'ffi', '1.15.0'
 gem 'google-protobuf', '3.19.1'
 
 #임의 추가
-gem 'nokogiri', '~> 1.14.0'
+gem 'nokogiri', '1.14.0'
