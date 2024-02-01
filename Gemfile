@@ -23,10 +23,10 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #임의 추가
-gem 'ffi', '1.15.0'
+gem 'ffi', '1.16.3'
 
 #임의 추가
-gem 'google-protobuf', '3.19.1'
+gem 'google-protobuf', '3.25.2'
 
 #임의 추가
-gem 'nokogiri', '1.14.0'
+gem 'nokogiri', '1.16.0'
